@@ -7,6 +7,9 @@ import StylingComponent from './pages/StylingComponent';
 import PropsDinamis from './pages/PropsDinamis';
 import StateDinamis from './pages/StateDinamis';
 import Communication from './pages/Communication';
+import CallAPIVanilla from './pages/CallAPIVanilla';
+import CallAPIAxios from './pages/CallAPIAxios';
+import LocalAPI from './pages/LocalAPI';
 
 
 const App = () => {
@@ -25,7 +28,11 @@ const App = () => {
       {/* <Position/> */}
       {/* <PropsDinamis /> */}
       {/* <StateDinamis /> */}
-      <Communication />
+      {/* <Communication /> */}
+      {/* <ReactNativeSvg /> */}
+      {/* <CallAPIVanilla/> */}
+      {/* <CallAPIAxios/> */}
+      <LocalAPI />
       </ScrollView>
     </View>
   );

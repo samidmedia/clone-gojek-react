@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "halim dimas",
+      "email": "halimdimas@gmail.com",
+      "xray": "CR ",
+      "id": 2
+    },
+    {
+      "name": "andika utama",
+      "email": "andikautama@gmail.com",
+      "xray": "XRAY WORKLOAD",
+      "id": 3
+    },
+    {
+      "name": "rahmat setiawan",
+      "email": "rahmatsetiawan@gmail.com",
+      "xray": "CR",
+      "id": 4
+    },
+    {
+      "name": "febrian",
+      "email": "febrian@gmail.com",
+      "xray": "CT SCAN",
+      "id": 5
+    },
+    {
+      "name": "Richard karisma",
+      "email": "richard@gmail.com",
+      "xray": "CR",
+      "id": 6
+    }
+  ]
+}
